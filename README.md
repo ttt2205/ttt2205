@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)]()
+[![website](./img/twitter-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/t%C4%83ng-th%C3%A0nh-trung-bbb2b52a1/)
+[![website](./img/linkedin-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)]()
+[![website](./img/instagram-dark.svg)]()
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
