@@ -4,7 +4,32 @@ I'm a passionate backend developer, continuously expanding my knowledge. My curr
 
 My goal is to grow within a professional and collaborative environment where I can contribute effectively while also expanding my knowledge. I’m especially motivated to pursue a career path as a **backend system developer and system administrator**, where I can combine my technical curiosity with problem-solving to build scalable, high-performance systems.
 
----
+## <<<<<<< HEAD
+
+=======
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+  -->
+
+### Connect with me:
+
+[![website](./img/twitter-light.svg)]()
+[![website](./img/twitter-dark.svg)]()
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/t%C4%83ng-th%C3%A0nh-trung-bbb2b52a1/)
+[![website](./img/linkedin-dark.svg)]()
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)]()
+[![website](./img/instagram-dark.svg)]()
+
+> > > > > > > 70cee9f401e1ad27c64884873f03a41abd66dcf9
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -66,9 +91,23 @@ My goal is to grow within a professional and collaborative environment where I c
   </p>
 </details>
 
-### 📫 Contact Me
+<!-- ### 📫 Contact Me
 
 - 📧 Email: [your.email@gmail.com](mailto:your.email@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
 - 📘 Facebook: [facebook.com/your-facebook](https://facebook.com/your-facebook)
-- 📄 My CV: [View CV](https://your-cv-link.com)
+- 📄 My CV: [View CV](https://your-cv-link.com) -->
+
+### 📬 Contact with me:
+
+[![Facebook - Light](./img/facebook-light.svg)](https://facebook.com/your-facebook#gh-light-mode-only)
+[![Facebook - Dark](./img/facebook-dark.svg)](https://facebook.com/your-facebook#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![LinkedIn - Light](./img/linkedin-light.svg)](https://linkedin.com/in/your-linkedin#gh-light-mode-only)
+[![LinkedIn - Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/your-linkedin#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Gmail - Light](./img/gmail-light.svg)](mailto:your.email@gmail.com#gh-light-mode-only)
+[![Gmail - Dark](./img/gmail-dark.svg)](mailto:your.email@gmail.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![CV - Light](./img/cv-light.svg)](https://your-cv-link.com#gh-light-mode-only)
+[![CV - Dark](./img/cv-dark.svg)](https://your-cv-link.com#gh-dark-mode-only)
