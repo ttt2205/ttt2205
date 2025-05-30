@@ -73,38 +73,6 @@ My goal is to grow within a professional and collaborative environment where I c
 
 ### Contact with me:
 
-<!-- [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-
-<!-- [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;-->
-
-<!-- LinkedIn -->
-
-<!-- [![LinkedIn - Light](./img/linkedin-light.svg)](https://linkedin.com/in/your-linkedin#gh-light-mode-only)
-[![LinkedIn - Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/your-linkedin#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-
-<!-- Facebook -->
-
-<!-- [![Facebook - Light](./img/facebook.svg)](https://linkedin.com/in/your-linkedin#gh-light-mode-only)
-[![Facebook - Dark](./img/facebook.svg)](https://linkedin.com/in/your-linkedin#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-
-<!-- Gmail -->
-
-<!-- [![LinkedIn - Light](./img/linkedin-light.svg)](https://linkedin.com/in/your-linkedin#gh-light-mode-only)
-[![LinkedIn - Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/your-linkedin#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-
-<!-- CV -->
-
-<!-- [![LinkedIn - Light](./img/linkedin-light.svg)](https://linkedin.com/in/your-linkedin#gh-light-mode-only)
-[![LinkedIn - Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/your-linkedin#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-
 <!-- Twitter -->
 <a href="https://twitter.com/your_username" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" width="24" height="24" alt="Twitter" />
@@ -112,31 +80,32 @@ My goal is to grow within a professional and collaborative environment where I c
 &nbsp;&nbsp;
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/your_username" target="_blank">
+<a href="https://www.linkedin.com/in/t%C4%83ng-th%C3%A0nh-trung-bbb2b52a1/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="24" height="24" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 
 <!-- Facebook -->
-<a href="https://facebook.com/your_username" target="_blank">
+<a href="https://www.facebook.com/trung.tangthanh.2919" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="24" height="24" alt="Facebook" />
 </a>
 &nbsp;&nbsp;
 
 <!-- Instagram -->
-<a href="https://instagram.com/your_username" target="_blank">
+<!-- <a href="https://instagram.com/your_username" target="_blank">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="24" height="24" alt="Instagram" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp; -->
 
 <!-- Gmail -->
-<a href="mailto:your.email@example.com">
+<a href="mailto:thanhtrung22052004@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" height="24" alt="Gmail" />
 </a>
 &nbsp;&nbsp;
 
-<!-- CV (giả sử link CV PDF) -->
-<a href="https://yourdomain.com/your-cv.pdf" target="_blank">
-  <img src="https://cdn.simpleicons.org/readthedocs/gray" width="24" height="24" alt="CV" />
+<!-- Portfolio -->
+<a href="https://ttt2205.github.io/MyPortfolio/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/devdotto.svg" width="24" height="24" alt="Portfolio"
+       style="filter: invert(0%) sepia(0%) saturate(7482%) hue-rotate(147deg) brightness(94%) contrast(100%);" />
 </a>
 &nbsp;&nbsp;
