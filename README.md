@@ -89,17 +89,27 @@ My goal is to grow within a professional and collaborative environment where I c
 
 <!-- Facebook -->
 
-[![Facebook - Light](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg)](https://facebook.com/your-facebook#gh-light-mode-only){: style="width:24px; height:24px;" }
-[![Facebook - Dark](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg)](https://facebook.com/your-facebook#gh-dark-mode-only){: style="width:24px; height:24px; filter: invert(1);" }
-&nbsp;&nbsp;
+[picture>
+
+  <source srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="24" height="24">
+</picture>
+](https://facebook.com/your-facebook) &nbsp;&nbsp;
 
 <!-- Gmail -->
 
-[![Gmail - Light](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg)](mailto:your.email@gmail.com#gh-light-mode-only){: style="width:24px; height:24px;" }
-[![Gmail - Dark](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg)](mailto:your.email@gmail.com#gh-dark-mode-only){: style="width:24px; height:24px; filter: invert(1);" }
-&nbsp;&nbsp;
+[picture>
+
+  <source srcset="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email" width="24" height="24">
+</picture>
+](mailto:your.email@gmail.com) &nbsp;&nbsp;
 
 <!-- CV -->
 
-[![CV - Light](https://cdn.simpleicons.org/googledocs/4285F4)](https://your-cv-link.com#gh-light-mode-only){: style="width:24px; height:24px;" }
-[![CV - Dark](https://cdn.simpleicons.org/googledocs/4285F4)](https://your-cv-link.com#gh-dark-mode-only){: style="width:24px; height:24px; filter: invert(1);" }
+[picture>
+
+  <source srcset="https://cdn.simpleicons.org/googledocs/4285F4" media="(prefers-color-scheme: dark)">
+  <img src="https://cdn.simpleicons.org/googledocs/4285F4" alt="CV" width="24" height="24">
+</picture>
+](https://your-cv-link.com)
