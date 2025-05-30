@@ -89,27 +89,18 @@ My goal is to grow within a professional and collaborative environment where I c
 
 <!-- Facebook -->
 
-[picture>
-
-  <source srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" media="(prefers-color-scheme: dark)">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="24" height="24">
-</picture>
-](https://facebook.com/your-facebook) &nbsp;&nbsp;
+[![Facebook - Light](./img/facebook.svg)](https://linkedin.com/in/your-linkedin#gh-light-mode-only)
+[![Facebook - Dark](./img/facebook.svg)](https://linkedin.com/in/your-linkedin#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 <!-- Gmail -->
 
-[picture>
-
-  <source srcset="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" media="(prefers-color-scheme: dark)">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email" width="24" height="24">
-</picture>
-](mailto:your.email@gmail.com) &nbsp;&nbsp;
+[![LinkedIn - Light](./img/linkedin-light.svg)](https://linkedin.com/in/your-linkedin#gh-light-mode-only)
+[![LinkedIn - Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/your-linkedin#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 <!-- CV -->
 
-[picture>
-
-  <source srcset="https://cdn.simpleicons.org/googledocs/4285F4" media="(prefers-color-scheme: dark)">
-  <img src="https://cdn.simpleicons.org/googledocs/4285F4" alt="CV" width="24" height="24">
-</picture>
-](https://your-cv-link.com)
+[![LinkedIn - Light](./img/linkedin-light.svg)](https://linkedin.com/in/your-linkedin#gh-light-mode-only)
+[![LinkedIn - Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/your-linkedin#gh-dark-mode-only)
+&nbsp;&nbsp;
