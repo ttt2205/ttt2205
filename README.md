@@ -107,13 +107,13 @@ My goal is to grow within a professional and collaborative environment where I c
 
 <!-- Twitter -->
 <a href="https://twitter.com/your_username" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg" width="24" height="24" alt="Twitter" />
+  <img src="https://skillicons.dev/icons?i=twitter" width="24" height="24" alt="Twitter" />
 </a>
 &nbsp;&nbsp;
 
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/your_username" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="24" height="24" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="24" height="24" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 
