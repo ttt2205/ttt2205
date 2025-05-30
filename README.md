@@ -76,8 +76,30 @@ My goal is to grow within a professional and collaborative environment where I c
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+
+<!-- [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;-->
+
+<!-- LinkedIn -->
+
+[![LinkedIn - Light](./img/linkedin-light.svg)](https://linkedin.com/in/your-linkedin#gh-light-mode-only)
+[![LinkedIn - Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/your-linkedin#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+<!-- Facebook -->
+
+[![Facebook - Light](./img/facebook.svg)](https://facebook.com/your-facebook#gh-light-mode-only)
+[![Facebook - Dark](./img/facebook.svg)](https://facebook.com/your-facebook#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+<!-- Gmail -->
+
+[![Gmail - Light](./img/gmail.svg)](mailto:your.email@gmail.com#gh-light-mode-only)
+[![Gmail - Dark](./img/gmail.svg)](mailto:your.email@gmail.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+<!-- CV -->
+
+[![CV - Light](./img/CV.svg)](https://your-cv-link.com#gh-light-mode-only)
+[![CV - Dark](./img/CV.svg)](https://your-cv-link.com#gh-dark-mode-only)
