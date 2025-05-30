@@ -87,6 +87,19 @@ My goal is to grow within a professional and collaborative environment where I c
 [![LinkedIn - Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/your-linkedin#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-[<img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="24" height="24" />](https://facebook.com/your-facebook)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email" width="24" height="24" />](mailto:your.email@gmail.com)  
-[<img src="https://cdn.simpleicons.org/googledocs/4285F4" alt="CV" width="24" height="24" />](https://your-cv-link.com)
+<!-- Facebook -->
+
+[![Facebook - Light](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg)](https://facebook.com/your-facebook#gh-light-mode-only){: style="width:24px; height:24px;" }
+[![Facebook - Dark](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg)](https://facebook.com/your-facebook#gh-dark-mode-only){: style="width:24px; height:24px; filter: invert(1);" }
+&nbsp;&nbsp;
+
+<!-- Gmail -->
+
+[![Gmail - Light](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg)](mailto:your.email@gmail.com#gh-light-mode-only){: style="width:24px; height:24px;" }
+[![Gmail - Dark](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg)](mailto:your.email@gmail.com#gh-dark-mode-only){: style="width:24px; height:24px; filter: invert(1);" }
+&nbsp;&nbsp;
+
+<!-- CV -->
+
+[![CV - Light](https://cdn.simpleicons.org/googledocs/4285F4)](https://your-cv-link.com#gh-light-mode-only){: style="width:24px; height:24px;" }
+[![CV - Dark](https://cdn.simpleicons.org/googledocs/4285F4)](https://your-cv-link.com#gh-dark-mode-only){: style="width:24px; height:24px; filter: invert(1);" }
